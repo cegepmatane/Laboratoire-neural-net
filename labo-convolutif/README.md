@@ -26,4 +26,3 @@ Le dessin doit clarifier et illustrer :
   -  La fonction d'activation (Relu ou autre)  
   -  La couche de pooling (et laquelle)  
 - La couche de sortie (classes de sortie)  
-
