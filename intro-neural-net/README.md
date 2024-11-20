@@ -1,7 +1,8 @@
 ***A VISUAL GUIDE***  
-Train your dragon : Capture d'écran  
-Automation : Capture d'écran  
-Two : Capture d'écran  
+
+Train your dragon : ![trainYourDragon](capture/Train%20your%20dragon.PNG)
+Automation : ![automation](capture/Automatisation.PNG)
+Two : ![two](capture/Two.PNG)
 
 **SIMULATEURS de NEURONES**  
 Capture d'écran  pour le NOT  
