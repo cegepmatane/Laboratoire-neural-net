@@ -5,10 +5,11 @@ Automation : ![automation](capture/Automatisation.PNG)
 Two : ![two](capture/Two.PNG)
 
 **SIMULATEURS de NEURONES**  
-Capture d'écran  pour le NOT  
-Capture d'écran pour le ET  
-Capture d'écran pour le OU  
-Capture d'écran pour le XOR  
+
+NOT : ![not](capture/xor.PNG)
+ET  : ![not](capture/et.PNG)
+OU  : ![not](capture/ou.PNG)
+XOR : ![xor](capture/xor.PNG) 
 
 **NUAGES de TENSOR FLOW**  
 Nuage pour droite : Capture d'écran  
