@@ -2,19 +2,10 @@
 
 **Journal du labo convolutif**  
 
-Classification de véhicules : https://colab.research.google.com/drive/1iEYJs75hat_URxshmCBMGzHQo5VgdRvN  
-Votre colab public : https://drive.google.com/file/d/1Ym3e-HpSbuyNRKNYqH6GC-4L2pyrZh1J/view?usp=sharing
+Classification de textes : https://colab.research.google.com/github/dipanjanS/nlp_workshop_odsc19/blob/master/Module05%20-%20NLP%20Applications/Project07B%20-%20Text%20Classification%20Deep%20Learning%20CNN%20Models.ipynb  
+
+Votre colab public : https://drive.google.com/file/d/1Jf5AanMlkwdTJi_SSukMOIX4zkqaO3R4/view?usp=sharing
 
 **Dessin de blocs**
 
-Votre dessin en format PNG (on doit le voir dans le README) :  
-
-Source du dessin (format xml ou autre) :  
-
-Le dessin doit clarifier et illustrer :   
-- La couche d'entrée (format des données en entrée)  
-- Chaque couche convolutive (sa taille)  
-  -  Le nombre de kernels de convolution et leurs tailles respectives (visuellement)  
-  -  La fonction d'activation (Relu ou autre)  
-  -  La couche de pooling (et laquelle)  
-- La couche de sortie (classes de sortie)  
+![dessinBlocs](capture/dessinBlocs.png)
